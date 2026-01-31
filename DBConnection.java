@@ -5,7 +5,8 @@ public class DBConnection {
         return DriverManager.getConnection(
             "jdbc:mysql://localhost:3307/empdb",
             "root",
-            "ullasbk"
+            "nagaraj"
         );
     }
 }
+
